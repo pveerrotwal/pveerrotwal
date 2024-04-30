@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning **Docker, Terraform, Kubernetes, MERN stack,etc.**
 
 - 👨‍💻 All of my projects are available at [https://pveerrotwal.github.io/Portfolio/](https://pveerrotwal.github.io/Portfolio/)
-- - 📫 My Blogging website : [**paramvirrotwal@gmail.com**](https://medium.com/@pveerrotwal)
+  
+- 📫 My Blogging website : https://medium.com/@pveerrotwal
 
 - 📫 How to reach me **paramvirrotwal@gmail.com**
 
