@@ -10,10 +10,11 @@
 - 🌱 I’m currently learning **Docker, Terraform, Kubernetes, MERN stack,etc.**
 
 - 👨‍💻 All of my projects are available at [https://pveerrotwal.github.io/Portfolio/](https://pveerrotwal.github.io/Portfolio/)
+- - 📫 My Blogging website : [**paramvirrotwal@gmail.com**](https://medium.com/@pveerrotwal)
 
-- 📫 How to reach me **pveerrotwal@gmail.com**
+- 📫 How to reach me **paramvirrotwal@gmail.com**
 
-- 📄 Know about my experiences [SDE Intern @ TNQ TECH PVT LTD, CHENNAI](SDE Intern @ TNQ TECH PVT LTD, CHENNAI)
+- 📄 Know about my experiences [SDE Intern @ TNQ TECH PVT LTD, CHENNAI]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
