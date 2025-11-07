@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pveerrotwal" alt="pveerrotwal" /></a> </p>
 
-- 🔭 I’m currently working on **(Cloud and DevOps)**
+- 📄 [**Software Engineer @Dentsu**, **EX-SDE Intern @ TNQ TECH PVT LTD**, CHENNAI]
+
+- 🔭 I’m currently working on **(Backend Engineering, Cloud and DevOps)**
 
 - 🌱 I’m currently learning **Docker, Terraform, Kubernetes, MERN stack,etc.**
 
@@ -14,8 +16,6 @@
 - 📫 My Blogging website : https://medium.com/@pveerrotwal
 
 - 📫 How to reach me **paramvirrotwal@gmail.com**
-
-- 📄 Know about my experiences [**Software Engineer @Dentsu**, EX-SDE Intern @ TNQ TECH PVT LTD, CHENNAI]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
