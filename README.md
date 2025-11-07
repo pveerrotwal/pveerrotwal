@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **paramvirrotwal@gmail.com**
 
-- 📄 Know about my experiences [Software Engineer @Dentsu, EX-SDE Intern @ TNQ TECH PVT LTD, CHENNAI]
+- 📄 Know about my experiences [**Software Engineer @Dentsu**, EX-SDE Intern @ TNQ TECH PVT LTD, CHENNAI]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
